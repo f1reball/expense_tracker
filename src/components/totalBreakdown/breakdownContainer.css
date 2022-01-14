@@ -2,5 +2,26 @@
     display: grid;
     grid-template-columns: 50% 50%;
     justify-content: space-evenly;
-    background-color: green;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.unitHolder {
+    display: flex;
+    flex-direction: column;
+}
+
+.red {
+    color: #c0392b;
+}
+
+.green {
+    color: #2ecc71;
+}
+
+.moneyDisplay{
+    margin-top: 0px;
+    padding-bottom: 10px;
 }

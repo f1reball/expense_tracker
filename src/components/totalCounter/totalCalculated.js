@@ -7,7 +7,7 @@ class TotalCalculated extends Component {
     render() {
         return (
             <div className="balance">
-                <h1>$ {this.props.value} </h1>
+                <h1>$ {this.props.value}</h1>
             </div>
         )
     }

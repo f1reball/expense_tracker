@@ -9,7 +9,7 @@ class TotalContainer extends Component {
         super(props);
 
         this.state = {
-            'balance_value' : '800.00'
+            'balance_value' : '500.00'
         };
     }    
 
