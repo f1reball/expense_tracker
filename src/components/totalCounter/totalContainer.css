@@ -1,0 +1,12 @@
+.balanceContainer {
+    color:black;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.balanceContainer h1 {
+    font-weight: 100;
+    margin: 0px;
+}
